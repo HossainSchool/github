@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Meravigliose Tigri</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2 {
+            color: #d35400; /* Un bel colore arancione */
+            text-align: center;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px auto;
+            border-radius: 4px;
+        }
+        .section {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+        }
+        .section h3 {
+            color: #e67e22;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Le Tigri</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Siberian_Tiger_%28Panthera_tigris_altaica%29_male_3_Lucifer.jpg/800px-Siberian_Tiger_%28Panthera_tigris_altaica%29_male_3_Lucifer.jpg" alt="Tigre">
+
+        <div class="section">
+            <h2>Descrizione Generale</h2>
+            <p>Le tigri sono i felini più grandi del mondo e sono rinomate per la loro potenza e bellezza. Sono facilmente riconoscibili per il loro mantello a strisce verticali scure su sfondo arancione o rossiccio, anche se esistono varianti di colore come la tigre bianca.</p>
+        </div>
+
+        <div class="section">
+            <h2>Aspetto</h2>
+            <p>Hanno un corpo muscoloso e agile, ideale per la caccia. Le loro zampe sono forti con grandi artigli retrattili e denti canini affilati per afferrare e uccidere le prede. Le dimensioni variano a seconda della sottospecie, ma in generale i maschi sono più grandi delle femmine.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/White_tiger_cub_growing_up.jpg/640px-White_tiger_cub_growing_up.jpg" alt="Cucciolo di Tigre Bianca">
+        </div>
+
+        <div class="section">
+            <h2>Habitat</h2>
+            <p>Le tigri si trovano in una varietà di habitat, dalle foreste pluviali tropicali alle praterie, alle savane e persino alle foreste di conifere innevate. La maggior parte delle popolazioni selvatiche si concentra in Asia.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ranthambore_Tiger_Reserve%2C_Rajasthan%2C_India_%283367977460%29.jpg/640px-Ranthambore_Tiger_Reserve%2C_Rajasthan%2C_India_%283367977460%29.jpg" alt="Tigre nel suo Habitat">
+        </div>
+
+        <div class="section">
+            <h2>Dieta</h2>
+            <p>Le tigri sono carnivore e si nutrono principalmente di grandi mammiferi come cervi, cinghiali e bufali. Sono predatori agguerriti e solitari, che cacciano tendendo imboscate alle loro prede.</p>
+        </div>
+
+        <div class="section">
+            <h2>Abitudini</h2>
+            <p>Sono animali generalmente solitari e territoriali. Marcano il loro territorio con l'urina e i graffi sugli alberi. Le tigri sono anche abili nuotatrici e spesso si immergono in acqua per rinfrescarsi o per cacciare.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tiger_resting.jpg/640px-Tiger_resting.jpg" alt="Tigre a Riposo">
+        </div>
+    </div>
+</body>
+</html>
